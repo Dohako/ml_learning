@@ -1,2 +1,2 @@
-# ml_learning
+# ML Learning
 Repository for training in ML
